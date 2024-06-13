@@ -6,10 +6,7 @@ from typing import Tuple, Optional, Dict, List
 import random
 from constants import *
 
-############# Only changed handle_action method in the
-############# AdvancedTextInterface class a little.
 
-## Support code
 
 def random_directions() -> List[Tuple[int, int]]:
     """
