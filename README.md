@@ -1,2 +1,0 @@
-# EndOfDayZ
- This is a small game which allows zombies to pursue a player. If zombies run into a player, the player would be lose. When the player picks up an item, that item is added to an inventory, but not immediately applied.    The inventory is displayed to the right of the game map.    The user can activate and deactivate items by left clicking on them in the inventory.    When an item is activated, it begins working, and its lifetime decreases by 1 every second. Additionally, if the player arrive at the hospital, the player would be win.
