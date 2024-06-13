@@ -1,8 +1,5 @@
 """
 End of Dayz
-Assignment 3/Task 2
-Semester 1, 2021
-CSSE1001/CSSE7030
 """
 
 import tkinter as tk
@@ -13,12 +10,6 @@ from tkinter import filedialog
 import tkinter.messagebox as tm
 from typing import Tuple, Optional, Dict, List
 
-# student name, student number and email address. 
-__author__ = "<Peiying Song>, <46846943>"
-__email__ = "<s4684694@student.uq.edu.au>"
-
-
-# Implement my classes here.
 class ImageMap(AbstractGrid):
     """
     Extend existing BasicMap class. Images should be used to display

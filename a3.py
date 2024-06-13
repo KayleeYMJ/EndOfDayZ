@@ -2,12 +2,6 @@
 A GUI-based zombie survival game wherein the player has to reach
 the hospital whilst evading zombies.
 """
-
-# Replace these <strings> with your name, student number and email address.
-__author__ = "<Peiying Song>, <46846943>"
-__email__ = "<s4684694@student.uq.edu.au>"
-
-
 import tkinter as tk
 from a2_solution import advanced_game
 from constants import TASK, MAP_FILE

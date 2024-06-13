@@ -1,8 +1,5 @@
 """
 End of Dayz
-Assignment 3/Task 1
-Semester 1, 2021
-CSSE1001/CSSE7030
 """
 
 import tkinter as tk

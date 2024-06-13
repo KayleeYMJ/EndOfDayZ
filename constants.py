@@ -4,8 +4,6 @@
 TASK = 2
 MAP_FILE = 'maps/basic4.txt'
 
-
-##---- Assignment 2 Constants ----##
 # Characters that represent entities in a grid.
 PLAYER = "P"
 HOSPITAL = "H"
@@ -112,5 +110,5 @@ WARNING_MESSAGE = 'Cannot find some information about a saved game. \n Please tr
 QUIT_MESSAGE = 'Do you want to quit?'
 SPACE = ' '
 
-# CSSE7030 Task Constants
+
 TIME_MACHINE = 'M'
